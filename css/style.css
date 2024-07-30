@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.head1{
+    width: 100vw;
+    height: 350px;
+    background-color: lightgreen;
+    color: green;
+    text-align: center;
+}
+#btn{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+.col{
+    width: 100vw;
+    height: 100px;
+    background-color: lightskyblue;
+}
+.section{
+    margin-left: 450px;
+}
+table, tr, th,td{
+    border: 1px solid black;
+    padding: 10px 50px;
+}
